@@ -5,7 +5,7 @@ Use **Issues** to report bugs and request features for CorrectICS.
 
 ### 🌐 Web + API Validation
 Validate and fix `.vcf` files instantly at [CorrectVCF.com](https://correctvcf.com)  
-or use the [ICS Validation API](https://correctvcf.com/api/) for programmatic access.
+or use the [VCF Validation API](https://correctvcf.com/api/) for programmatic access.
 
 ### 🧩 Postman
 Coming soon
