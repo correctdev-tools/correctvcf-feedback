@@ -8,4 +8,5 @@ Validate and fix `.vcf` files instantly at [CorrectVCF.com](https://correctvcf.c
 or use the [VCF Validation API](https://correctvcf.com/api/) for programmatic access.
 
 ### 🧩 Postman
-Coming soon
+Test the API instantly on Postman:  
+[Open CorrectICS API Collection](https://www.postman.com/supply-geoscientist-6447329-6774535/correctdev/collection/49086764-446e0aa6-2910-44f3-ad31-b654dc4ab77b/?action=share&creator=0)
